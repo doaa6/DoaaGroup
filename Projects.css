@@ -7,6 +7,11 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+@media screen and (max-width: 600px) {
+    .img-intro{
+        height: 50%;
+    }
+}
 .text-intro
 {
     padding-top: 27%;
